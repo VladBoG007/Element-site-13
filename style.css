@@ -1,0 +1,8 @@
+.friend{
+	font-size: 5em;
+}
+.friend::first-letter{
+	text-align: center;
+	color: purple;
+	font-size: 5em;
+}
